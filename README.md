@@ -1,4 +1,4 @@
-### Doctor’s Appointment Chatbot Workflow for n8n
+# Doctor’s Appointment Chatbot Workflow for n8n
 
 This repository contains the Doctor’s Appointment Chatbot Workflow for use with n8n.
 It provides a simple FAQ-based chatbot that helps patients with common appointment-related questions such as scheduling, rescheduling, cancellations, insurance, and telehealth.
